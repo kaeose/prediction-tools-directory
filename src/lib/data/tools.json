@@ -3405,5 +3405,79 @@
             "Pari-Mutuel Settlement",
             "Polkaswap Integration"
         ]
+    },
+    {
+        "id": "glypse",
+        "name": "Glypse",
+        "slug": "glypse",
+        "shortDescription": "AI analytics for prediction markets: the story behind the odds before you pick a side.",
+        "description": "Glypse is an AI-powered prediction market analytics and research platform. It gives you the story behind the odds before you pick a side, helping you find an angle on a market and follow it as the story develops.",
+        "category": "Market Intelligence",
+        "url": "https://glypse.ai",
+        "xUrl": "https://x.com/GlypseAI",
+        "tags": [
+            "Prediction Markets",
+            "AI Analytics",
+            "Research",
+            "Sentiment Analysis",
+            "Market Intelligence"
+        ],
+        "isPromoted": false,
+        "pricing": "Freemium",
+        "pricingDetails": "Freemium: free analytics and research, with paid tiers.",
+        "access": "Public",
+        "status": "active",
+        "addedDate": "2026-10-14",
+        "lastVerified": "2026-10-16",
+        "supportedMarkets": [
+            "Polymarket"
+        ],
+        "platform": [
+            "Web"
+        ],
+        "features": [
+            "AI Market Analysis",
+            "Story Behind the Odds",
+            "Market Angle Discovery",
+            "Research Workflow",
+            "Sentiment Analysis"
+        ]
+    },
+    {
+        "id": "oracle-markets",
+        "name": "Oracle Markets",
+        "slug": "oracle-markets",
+        "shortDescription": "Daily AI forecasts on politics, finance and geopolitics, benchmarked against Polymarket and Kalshi.",
+        "description": "Oracle Markets publishes daily AI-generated forecasts on politics, finance and geopolitics, produced by a set of AI agents and tracked against Polymarket and Kalshi. The site advertises 80% accuracy across 10 agents and 500,000+ predictions. Free to use.",
+        "category": "Platforms",
+        "url": "https://oraclemarkets.io/",
+        "xUrl": "https://oraclemarkets.io/",
+        "tags": [
+            "AI Agents",
+            "Forecasting",
+            "Prediction Markets",
+            "Politics",
+            "Geopolitics"
+        ],
+        "isPromoted": false,
+        "pricing": "Free",
+        "pricingDetails": "Free to use.",
+        "access": "Public",
+        "status": "active",
+        "addedDate": "2026-10-11",
+        "lastVerified": "2026-10-16",
+        "supportedMarkets": [
+            "Polymarket",
+            "Kalshi"
+        ],
+        "platform": [
+            "Web"
+        ],
+        "features": [
+            "AI-Generated Forecasts",
+            "Multi-Agent Predictions",
+            "Daily Politics & Geopolitics Coverage",
+            "Benchmarked Against Polymarket & Kalshi"
+        ]
     }
 ]
