@@ -3479,5 +3479,49 @@
             "Daily Politics & Geopolitics Coverage",
             "Benchmarked Against Polymarket & Kalshi"
         ]
+    },
+    {
+        "id": "polyedge",
+        "name": "PolyEdge",
+        "slug": "polyedge",
+        "shortDescription": "Ultra-low-latency mempool trade streaming & real-time analytics for Polymarket.",
+        "description": "Ultra-low-latency trade streaming engine and analytics infrastructure engineered for Polymarket prediction markets. Connects directly to validator P2P gossip nodes to capture pending transactions pre-block, providing high-frequency WebSocket and REST streams for quantitative bots, arbitrage scanners, and copy-trading systems.",
+        "category": "Market Intelligence",
+        "url": "https://polyedge.dev",
+        "xUrl": "https://x.com/PolyEdgeDev",
+        "tags": [
+            "Polymarket",
+            "Mempool",
+            "Low Latency",
+            "WebSocket",
+            "API",
+            "Real-Time Analytics"
+        ],
+        "isActive": true,
+        "isPromoted": false,
+        "pricing": "Freemium",
+        "pricingDetails": "Public streams and developer tier available; enterprise high-frequency feeds on request.",
+        "access": "Public",
+        "status": "active",
+        "addedDate": "2026-10-20",
+        "lastVerified": "2026-10-20",
+        "blockchain": [
+            "Polygon"
+        ],
+        "supportedMarkets": [
+            "Polymarket"
+        ],
+        "platform": [
+            "Web",
+            "API"
+        ],
+        "features": [
+            "Mempool Streaming",
+            "Pre-block Transaction Detection",
+            "WebSocket Stream API",
+            "REST API",
+            "OrderFilled Attribution",
+            "High-Frequency Market Analytics"
+        ]
     }
 ]
