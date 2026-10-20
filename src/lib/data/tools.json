@@ -3484,9 +3484,9 @@
         "id": "polyedge",
         "name": "PolyEdge",
         "slug": "polyedge",
-        "shortDescription": "Ultra-low-latency mempool trade streaming & real-time analytics for Polymarket.",
-        "description": "Ultra-low-latency trade streaming engine and analytics infrastructure engineered for Polymarket prediction markets. Connects directly to validator P2P gossip nodes to capture pending transactions pre-block, providing high-frequency WebSocket and REST streams for quantitative bots, arbitrage scanners, and copy-trading systems.",
-        "category": "Market Intelligence",
+        "shortDescription": "Ultra-Low-Latency Polymarket Mempool Trade Streaming & Real-Time On-Chain Analytics API.",
+        "description": "Engineered for Polymarket copy-trading bots, professional traders, and prediction market builders. Capture pending trades pre-block and track smart money with institutional-grade on-chain analytics.",
+        "category": "Analysis Tools",
         "url": "https://polyedge.dev",
         "xUrl": "https://x.com/PolyEdgeDev",
         "tags": [
@@ -3500,7 +3500,7 @@
         "isActive": true,
         "isPromoted": false,
         "pricing": "Freemium",
-        "pricingDetails": "Public streams and developer tier available; enterprise high-frequency feeds on request.",
+        "pricingDetails": "Free tier available; Starter, Individual, and Builder plans for production workloads.",
         "access": "Public",
         "status": "active",
         "addedDate": "2026-10-20",
@@ -3516,12 +3516,12 @@
             "API"
         ],
         "features": [
-            "Mempool Streaming",
-            "Pre-block Transaction Detection",
-            "WebSocket Stream API",
-            "REST API",
-            "OrderFilled Attribution",
-            "High-Frequency Market Analytics"
+            "Real-Time Mempool Streaming",
+            "Pre-Block Trade Detection",
+            "Smart Money Tracking",
+            "Trade-by-Trade Attribution",
+            "Realized PnL Calculation",
+            "Multi-Dimensional Tag & Series Isolation"
         ]
     }
 ]
